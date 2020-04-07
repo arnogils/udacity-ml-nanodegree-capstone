@@ -1,5 +1,6 @@
 *.csv
 *.xlsx
+*.pkl
 .ipynb_checkpoints
 .DS_Store
 /venv
